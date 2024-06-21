@@ -4,7 +4,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-science.svg)](https://forthebadge.com)
 
-[![DOI](https://zenodo.org/badge/524056274.svg)](https://zenodo.org/doi/)
+[![DOI](https://zenodo.org/badge/XXXXXX.svg)](https://zenodo.org/doi/)
 [![giovannellilab](https://img.shields.io/badge/BY-Giovannelli_Lab-blue)](http://www.donatogiovannelli.com)
 ![INTHEFIELD](https://img.shields.io/badge/MADE-In_the_Field-yellowgreen)
 
